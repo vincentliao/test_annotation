@@ -11,5 +11,6 @@ $ javac -d ./classes *.java
 ```
 
 Run it.
+```
 $ java -cp ./classes RunTest
 ```
